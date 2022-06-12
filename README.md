@@ -1,0 +1,2 @@
+# coochie
+pip install coochie
