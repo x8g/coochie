@@ -1,4 +1,4 @@
-import coochie
+import coochie # useless import since coochie has no features but its for a joke so just laugh yk
 from colorama import Fore
 
 def sayhello():
